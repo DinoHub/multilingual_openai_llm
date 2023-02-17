@@ -1,4 +1,6 @@
 Conda env: custom_loss
+
+tir: /projects/tir6/general/aogayo/models/bloom/lti-llm-deployment/
 # Generating Parallel Data
 Language: Kiswahili - English. Why, I understand them.
 
